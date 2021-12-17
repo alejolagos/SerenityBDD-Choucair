@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "name": "User",
+      "login": "admin",
+      "password": "serenity"
+    },
+    {
+      "name": "Otro",
+      "login": "Credencial_Incorrecta",
+      "password": "Credencial_Incorrecta"
+    }
+  ],
+  "businessUnit": [
+    {
+      "parentUnit": "Unidad Principal",
+      "unit": "Unidad_01"
+    }
+  ],
+  "meetings": [
+    {
+      "meetingName": "Reunion Diaria",
+      "meetingType": "Diaria",
+      "meetingNumber": "01",
+      "startDate": "12/16/2021",
+      "endDate":"12/16/2021",
+      "location": "Colombia"
+    }
+  ],
+  "contacts": [
+    {
+      "firstName": "Juan",
+      "lastName": "Perez",
+      "emailName": "juanperez",
+      "emailDomain": "correo.edu.co",
+      "contactType": "organized"
+    },
+    {
+      "firstName": "Miguel",
+      "lastName": "Toro",
+      "emailName": "migueltoro",
+      "emailDomain": "correo.edu.co",
+      "contactType": "reporter"
+    },
+    {
+      "firstName": "Diana",
+      "lastName": "Gomez",
+      "emailName": "dianagomez",
+      "emailDomain": "correo.edu.co",
+      "contactType": "attendee"
+    },
+    {
+      "firstName": "Jimena",
+      "lastName": "Campo",
+      "emailName": "jimenacampo",
+      "emailDomain": "correo.edu.co",
+      "contactType": "attendee"
+    }
+  ]
+}
