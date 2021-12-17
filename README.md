@@ -32,3 +32,10 @@ mvn clean install  //Limpia y compila cada modulo desde cero
 
 mvn serenity:aggregate //Para agregar los reportes al proyecto
 ```
+
+## 📋 Para visualizar los reportes 
+```
+Completo: target/site/serenity/index.html
+
+Resumen:  target/site/serenity/serenity-summary.html
+```
